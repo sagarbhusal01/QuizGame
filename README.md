@@ -71,3 +71,10 @@ here the checkchoice method handles the input and prevent the console from crash
 
 
 ```
+
+# Dependencies
+
+In this project 
+# RestSharp and  Newtonsoft.json 
+packages were used .
+you have to install those from the nuget packages
